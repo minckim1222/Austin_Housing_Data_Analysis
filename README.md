@@ -1,6 +1,6 @@
 # Austin Housing Data Analsysis
 
-The purpose of this analysis was to look at housing prices in the Austin area spanning the years 2007 - 2016.  The Austin Metropolitan Area is defined differently based on the government agency doing the analysis.  For simplicities sake, only three counties were analyzed: Harris, Williamson, and Travis.  These three counties make up the majority of the Austin area, and it seemed to be a good foundation for analysis.  Here is a link to the [final Jupyter Notebook](https://github.com/minckim1222/Austin_Housing_Data_Analysis_Final/blob/master/final_code.ipynb)
+The purpose of this analysis was to look at housing prices in the Austin area spanning the years 2007 - 2016.  The Austin Metropolitan Area is defined differently based on the government agency doing the analysis.  For simplicities sake, only three counties were analyzed: Harris, Williamson, and Travis.  These three counties make up the majority of the Austin area, and it seemed to be a good foundation for analysis.  Here is a link to the [final Jupyter Notebook.](https://github.com/minckim1222/Austin_Housing_Data_Analysis_Final/blob/master/final_code.ipynb)
 
 ## Data Gathering and Cleaning
 
@@ -9,7 +9,7 @@ All of the data was gathered using the [US Census Website](https://www.census.go
 ##### Grapi Dataframe
 ![Austin Grapi](https://github.com/minckim1222/Austin_Housing_Data_Analysis_Final/blob/master/Saved_Pngs/grapi.png)
 
-Grapi (Gross Rent as Percentage of Income) shows the number of households and what percentage of their income is used on their rent.  This combines both rented and mortgaged homes.
+*Grapi* (Gross Rent as Percentage of Income) shows the number of households and what percentage of their income is used on their rent.  This combines both rented and mortgaged homes.
 
 ##### Housing Tenure
 ![Austin Housing Tenure](https://github.com/minckim1222/Austin_Housing_Data_Analysis_Final/blob/master/Saved_Pngs/housing_tenure.png)
@@ -25,7 +25,7 @@ All of the data frames above were created and combined to complete the final ana
 
 ## % Spent on Rent for the Three Counties
 
-Some simple pie graphs showing the % of income used on rent for each county in 2007 and 2016
+Some simple pie graphs showing the % of income used on rent for each county in 2007 and 2016.
 ##### Hays County
 
 ![Hays 2007](https://github.com/minckim1222/Austin_Housing_Data_Analysis_Final/blob/master/Saved_Pngs/morgage_percent_hays_2007.png)
@@ -41,7 +41,7 @@ Some simple pie graphs showing the % of income used on rent for each county in 2
 ![Travis 2007](https://github.com/minckim1222/Austin_Housing_Data_Analysis_Final/blob/master/Saved_Pngs/morgage_percent_travis_2007.png)
 ![Travis 2016](https://github.com/minckim1222/Austin_Housing_Data_Analysis_Final/blob/master/Saved_Pngs/morgage_percent_travis_2016.png)
 
-##### The trend seems to be people are spending less of their income on housing.  
+##### The trend seems to be people are spending less of their income on housing.
 
 ## Occupancy Bar Charts
 
@@ -57,7 +57,7 @@ Here is a bar chart splitting the number of households into rented vs owned.
 
 ![Austin Rent Vs Own](https://github.com/minckim1222/Austin_Housing_Data_Analysis_Final/blob/master/Saved_Pngs/rented_vs_owned.png)
 
-There is a slight trend towards owning over renting.  This can be an indicator that more people are planning to stay in Austin longterm
+There is a slight trend towards owning over renting.  This can be an indicator that more people are planning to stay in Austin longterm.
 
 ## Home Price VS Income Per Capita
 
