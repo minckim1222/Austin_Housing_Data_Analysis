@@ -1,5 +1,7 @@
 # Austin Housing Data Analsysis
 
+#### An Overview of the Analysis Done
+![Analysis Overview](https://github.com/minckim1222/Austin_Housing_Data_Analysis_Final/blob/master/Saved_Pngs/housing_one_slide.jpg)
 The purpose of this analysis was to look at housing prices in the Austin area spanning the years 2007 - 2016.  The Austin Metropolitan Area is defined differently based on the government agency doing the analysis.  For simplicities sake, only three counties were analyzed: Harris, Williamson, and Travis.  These three counties make up the majority of the Austin area, and it seemed to be a good foundation for analysis
 
 ## Data Gathering and Cleaning
